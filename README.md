@@ -31,7 +31,7 @@ These applications contain notional data and are dual use.
 
 ## What if I have questions about STK
 
-Contact [AGI support](mail:support@agi.com "Email AGI Support") with questions regarding STK, STK Engine, ODTK, or any other AGI products.
+Contact [AGI support](mail:support@agi.com "Email AGI Support") with questions regarding STK, STK Engine, or any other AGI products.
 
 AGI's software helps engineers, operators, and analysts deliver digital engineering value at any stage of a program life cycle: from planning and design to training and operations. Our modeling, analysis and visualization tools, coupled with legendary customer support, help those in aerospace and defense organizations make critical decisions faster and more accurately in an operational context.
 
